@@ -1,7 +1,6 @@
 ## Hi there! I'm Mustafa 🦅
 
-Volition is not my thing, you know; but when I get it, I ask myself; "is it me or is it a substance that affects me?", this always gives me one answer: "I don't know".
-
+Hello, how's it going? I like to like stuff and dislike said stuff after some time. I also like to dislike people who dislike those who dislike, and also those who like those who dislike. So, I dislike almost everyone, since basically everyone dislikes someone who, in revenge, dislikes them. But they like themselves, so they like someone who dislikes someone. Hence, I do not like even myself, since I also dislike someone. And since I do not like someone, but I love myself—that is, I like someone who dislikes what I dislike—then I also dislike myself in that way too, since I can't seem to dislike what I like. I do not like nor dislike my likes and dislikes, yet I do like and I do dislike something or someone. Anyways, leave a like and subscribe. I'll see you guys in the next video.
 
 - 🌱 I’m currently learning **C/C++ SDL/GL**, **python - DV** and **react.js**.
 - 💬 Ask me about **Relational Databases, The Jubjub Bird & Humpty Dumpty**.
