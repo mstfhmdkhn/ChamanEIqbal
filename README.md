@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  ![pigeon walking](pigeon-walk.gif)
+  
   The reason why I'm here is probably the irrational hate for trees and love for potatoes and gingers!
 </div>
 <br><br>
