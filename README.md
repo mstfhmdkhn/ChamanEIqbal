@@ -8,4 +8,4 @@ Hello, how's it going? I like to like stuff and dislike said stuff after some ti
 - ⚡ Fun fact: **9 September, 1:05 PM is when 69% of the year has already passed**.
 
 
-The reason why I'm here is probably the irrational hate for trees and love for potatoes and gingers!
+<p style="text-align: center;">The reason why I'm here is probably the irrational hate for trees and love for potatoes and gingers!</p>
