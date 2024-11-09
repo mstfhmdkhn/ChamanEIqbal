@@ -12,6 +12,3 @@ Hello, how's it going? I like to like stuff and dislike said stuff after some ti
 - 💬 Ask me about **Relational Databases, The Jubjub Bird & Naked Registers**.
 - 📫 How to reach me: **pc19232.mustafa@gmail.com** or **Discord: @mustardface**.
 - ⚡ Fun fact: **9 September, 1:05 PM is when 69% of the year has already passed**.
-
-<br><br><br>
-I've dabbled with stuff, and do you not agree I shouldn't have a dabble-version of the first paragraph here?
