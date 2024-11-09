@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Mustafa
+## Hi there! I'm Mustafa 🦅
 
 Volition is not my thing, you know; but when I get it, I ask myself; "is it me or is it a substance that affects me?", this always gives me one answer: "I don't know".
 
