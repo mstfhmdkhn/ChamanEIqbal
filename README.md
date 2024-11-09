@@ -1,10 +1,9 @@
 ## Hi there! I'm Mustafa 🌳
 
 <div align="center">
-    <!-- Embed Image -->
-    <img src="https://media.tenor.com/G-YjVvBH1H4AAAAj/pigeon-walk.gif" alt="Pigeon GIF" style="max-width: 100%; height: auto;">
-    <br><br>
     The reason why I'm here is probably the irrational hate for trees and love for potatoes and gingers!
+    <br><br>
+    <img src="https://media.tenor.com/G-YjVvBH1H4AAAAj/pigeon-walk.gif" alt="Pigeon GIF" style="width: 50%; height: auto;">
 </div>
 <br><br>
 
