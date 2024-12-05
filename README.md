@@ -11,4 +11,3 @@
 
 - 🌱 I’m currently learning **SDL-GL**, **python - DV**, **react.js** & **Flutter**.
 - 📫 How to reach me: **pc19232.mustafa@gmail.com** or **Discord: @mustardface**.
-- ⚡ Fun fact: **9 September, 1:05 PM is when 69% of the year has already passed**.
