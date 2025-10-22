@@ -11,5 +11,4 @@
 </div>
 <br><br>
 
-- 🌱 I’m currently learning **SDL-GL**, **python - DV**, **react.js** & **Flutter**.
-- 📫 How to reach me: **pc19232.mustafa@gmail.com** or **Discord: @mustardface**.
+- 📫 How to reach me: **mstfhmdkhn@gmail.com** or **Discord: @mustardface**.
