@@ -1,6 +1,6 @@
 ## Hi there! I'm Mustafa 🌳
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChamanEIqbal)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mstfhmdkhn)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
     Hello, I am Mustafa. I am a Computer Science Undergraduate; with a knack for Software Development!
